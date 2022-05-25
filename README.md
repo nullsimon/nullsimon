@@ -7,6 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [&lt;&lt;七年就是一辈子&gt;&gt;读后感](https://zhaowang.me/archives/seven_years_is_one_generation/)
+- [Now-Go-Build-Werner-Vogels 观后感](https://zhaowang.me/archives/now-go-build-werner-vogels/)
+- [别让眼界限制了你](https://zhaowang.me/archives/think/)
+- [谈谈加密货币 下一波浪潮](https://zhaowang.me/archives/btc_2/)
+- [如何优雅地在软路由上挖矿-chia挖矿](https://zhaowang.me/archives/chia_1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
