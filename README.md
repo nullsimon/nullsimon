@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [go面试算法系列记录](https://zhaowang.me/archives/algorithm-interview-go/)
 - [How to install archlinux on a m1 mac](https://zhaowang.me/archives/archlinux_1/)
 - [华为社招机考-字符串解压缩](https://zhaowang.me/archives/huawei_strings_decompress/)
 - [Go slice的一个坑](https://zhaowang.me/archives/go_slice_reference/)
 - [&lt;&lt;七年就是一辈子&gt;&gt;读后感](https://zhaowang.me/archives/seven_years_is_one_generation/)
-- [Now-Go-Build-Werner-Vogels 观后感](https://zhaowang.me/archives/now-go-build-werner-vogels/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
