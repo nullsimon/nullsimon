@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [学习web3的第二天](https://zhaowang.me/archives/web3-second-day/)
 - [学习web3的第一天](https://zhaowang.me/archives/web3-first-day/)
 - [typeScript的一个坑](https://zhaowang.me/archives/typescript_1/)
 - [go面试算法系列记录](https://zhaowang.me/archives/algorithm-interview-go/)
 - [How to install archlinux on a m1 mac](https://zhaowang.me/archives/archlinux_1/)
-- [华为社招机考-字符串解压缩](https://zhaowang.me/archives/huawei_strings_decompress/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
