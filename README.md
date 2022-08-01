@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A gopher, father, love to read and play games</h3>
+<h3 align="center">A gopher, love to read and play games</h3>
 
-- 🌱 I’m currently learning **go and leetcode**
+- 🌱 I’m currently learning **go、leetcode、web3**
+
+- 🎮 I'm playing Xenoblade Chronicles 3
 
 - 📝 I regularly write articles on [https://zhaowang.me](https://zhaowang.me)
 
