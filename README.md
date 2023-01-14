@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [go解决c10k problem&lpar;二&rpar;](https://zhaowang.me/archives/go-c10k-problem-2/)
 - [go解决c10k problem&lpar;一&rpar;](https://zhaowang.me/archives/go-c10k-problem-1/)
 - [学习web3的第三天-感受ether的心跳](https://zhaowang.me/archives/web3-third-day/)
 - [学习web3的第二天](https://zhaowang.me/archives/web3-second-day/)
 - [学习web3的第一天](https://zhaowang.me/archives/web3-first-day/)
-- [typeScript的一个坑](https://zhaowang.me/archives/typescript_1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
