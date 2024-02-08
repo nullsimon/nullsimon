@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [软路由系列--Others](https://zhaowang.me/archives/soft-router-others/)
+- [软路由系列--Docker](https://zhaowang.me/archives/soft-router-docker/)
+- [软路由系列--续篇--代理和DNS设置](https://zhaowang.me/archives/soft-router-proxy-and-dns/)
 - [软路由系列--路由器系统-Ubuntu](https://zhaowang.me/archives/soft-router-system-ubuntu/)
 - [go解决c10k problem&lpar;二&rpar;--db版下单场景](https://zhaowang.me/archives/go-c10k-problem-2/)
-- [go解决c10k problem&lpar;一&rpar;](https://zhaowang.me/archives/go-c10k-problem-1/)
-- [学习web3的第三天-感受ether的心跳](https://zhaowang.me/archives/web3-third-day/)
-- [学习web3的第二天](https://zhaowang.me/archives/web3-second-day/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
