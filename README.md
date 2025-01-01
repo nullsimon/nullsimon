@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullsimon&show_icons=true&locale=en" alt="nullsimon" /></p>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=nullsimon&theme=auto)
+![Leetcode Stats](https://leetcode-status.vercel.app/api/card/nullsimon?theme=light&hide_title=true&custom_title=)
